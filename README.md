@@ -18,7 +18,7 @@ The experiments were conducted in Kaggle notebook environments.
 - `datasets/`: Kaggle dataset links and dataset descriptions
 - `notebooks/`: Training notebooks for each classification module
 - `results/`: Experiment result reports, including metrics, confusion matrices, and training curves
-- `paper/`: Final paper PDF will be added after the paper is completed
+- `paper/`: This folder contains the academic paper related to this forest management classification study.
 
 ## Results Summary
 
